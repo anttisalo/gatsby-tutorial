@@ -1,0 +1,7 @@
+html {
+  --color-body-text: teal;
+}
+
+body {
+  color: var(--color-body-text);
+}
